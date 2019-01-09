@@ -2,7 +2,7 @@
 
 Team: Montse Balle, Marie De Meulen, Irène Six
 
-*** A lot of changes  ***
+* A lot of changes  *
 
 ## COLLECTING INFORMATION
 
