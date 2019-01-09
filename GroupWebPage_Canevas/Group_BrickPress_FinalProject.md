@@ -40,43 +40,6 @@ The extended network of Fablabs would permit a quick distribution of the file. T
 
 
  
-![test image](images/Presse_a_briques/image_test.jpeg)
+![test image](images/Presse_a_briques/image_test.jpg)
 
-![](images/Presse_a_briques/BriqueMaison.jpeg)
-...
-
-...
-
-...
-
-
-## Quelques exemples de syntaxe markdown :
-
-### Insérer une image
-
-Enregistrer l'image dans le dossier "images/nom_de_votre_groupe/image_test.jpeg"
-
-![test image](images/nom_de_votre_groupe/image_test.jpeg)
-
-
-### Link to one of your design files
-
-Place your design files into the folder "files/nom_de_votre_groupe/"
-
-#### example of a design file as a SVG image :
-
-[click here to download the file](files/nom_de_votre_groupe/Auxetics_ULB_Generated.svg)
-
-#### example of a design file as a STL file
-
-[click here to download the file](files/nom_de_votre_groupe/20mm_cube.stl)
-
-### Insérer une vidéo youtube
-
-[![Kerala Flood: The Human Story in English II Documentary By Discovery 12 Nov 2018](https://img.youtube.com/vi/nXtx7SdM65M/0.jpg)](https://www.youtube.com/watch?v=nXtx7SdM65M)
-
-### Markdown Cheatsheet
-
-Pour vous aider à apprendre la syntaxe markdown:
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+![](images/Presse_a_briques/BriqueMaison.jpg)
