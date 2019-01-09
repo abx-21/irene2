@@ -8,7 +8,7 @@ Team: Montse Balle, Marie De Meulen, Irène Six
 ## ISABELLE BRICK-PRESS
 
 Our first prototype is based on the Isabelle brick press machine from Beteze; a multi-disciplinary group of young people based in Barcelona [Beteze.org](https://www.beteze.org).    
-![4 temps Presse](images/Presse_a_briques/IsabellePRess.jpeg)
+![4 temps Presse](images/Presse_a_briques/IsabellePRess.jpg)
 
 Their file, in open-source, is made for a welded metal press.  Our initial test, made of 6 mm MDF and all the parts are glued together, gave us the opportunity to try the machine and to find ways to improve the press. 
 
