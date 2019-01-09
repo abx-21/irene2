@@ -12,7 +12,7 @@ Our first prototype is based on the Isabelle brick press machine from Beteze; a 
 
 Their file, in open-source, is made for a welded metal press.  Our initial test, made of 6 mm MDF and all the parts are glued together, gave us the opportunity to try the machine and to find ways to improve the press. 
 
-![4 temps Presse](images/Presse_a_briques/4tempspresse.jpeg)
+![4 temps Presse](images/Presse_a_briques/4tempspresse.jpg)
 
 
 ## REVISITED ISABELLE BRICK-PRESS 
