@@ -37,9 +37,4 @@ Why cheap? Because it is made in MDF in a Fablab, light to transport and easy to
 Why a brick-press? It would help people in unreachable villages where it is too difficult to bring bricks. It would permit to save money and to create stronger bricks than the one made by hand with a mould.
 The extended network of Fablabs would permit a quick distribution of the file. This file would be in open source and could be improved by other people. We hope this machine will just evolve with the time and needs and will stay affordable for everybody. 
 
-
-
- 
-![test image](images/Presse_a_briques/image_test.jpg)
-
 ![](images/Presse_a_briques/BriqueMaison.jpg)
